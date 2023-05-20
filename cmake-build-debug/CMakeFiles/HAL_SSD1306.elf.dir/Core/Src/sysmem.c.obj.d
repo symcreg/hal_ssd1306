@@ -1,5 +1,5 @@
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/sysmem.c.obj: \
- C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\sysmem.c \
+ C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\sysmem.c \
  d:\app\armgcc~1\102021~1.10\arm-none-eabi\include\errno.h \
  d:\app\armgcc~1\102021~1.10\arm-none-eabi\include\sys\errno.h \
  d:\app\armgcc~1\102021~1.10\arm-none-eabi\include\sys\reent.h \

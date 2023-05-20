@@ -1187,8 +1187,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/symct/Desktop/program/hal_ssd1306/cmake-build-debug",
-		"source" : "C:/Users/symct/Desktop/program/hal_ssd1306"
+		"build" : "C:/Users/symct/Desktop/program/HAL_SSD1306/cmake-build-debug",
+		"source" : "C:/Users/symct/Desktop/program/HAL_SSD1306"
 	},
 	"version" : 
 	{

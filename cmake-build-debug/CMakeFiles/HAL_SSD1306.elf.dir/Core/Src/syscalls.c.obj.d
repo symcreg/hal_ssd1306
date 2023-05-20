@@ -1,5 +1,5 @@
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/syscalls.c.obj: \
- C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\syscalls.c \
+ C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\syscalls.c \
  d:\app\armgcc~1\102021~1.10\arm-none-eabi\include\sys\stat.h \
  d:\app\armgcc~1\102021~1.10\arm-none-eabi\include\_ansi.h \
  d:\app\armgcc~1\102021~1.10\arm-none-eabi\include\newlib.h \

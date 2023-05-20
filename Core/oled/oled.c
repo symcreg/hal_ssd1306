@@ -4,15 +4,28 @@
 
 #include "oled.h"
 #include "oled_init.h"
+#include "oled_font.h"
 
+extern uint8_t oledGram[128][8];
 
-void oledClear(){
-    for(uint8_t i=0;i<8;i++){
-        for(uint8_t n=0;n<128;n++){
-            oledGram[n][i]=0;//清除数据
-        }
+void oledDisplayOn(){
+    oledWriteCommand(0x8d);//电荷泵使能
+    oledWriteCommand(0x14);//开启电荷泵
+    oledWriteCommand(0xaf);//点亮屏幕
+}
+void oledDisplayOff(){
+    oledWriteCommand(0x8d);//电荷泵使能
+    oledWriteCommand(0x10);//关闭电荷泵
+    oledWriteCommand(0xae);//熄灭屏幕
+}
+void oledColorTurn(uint8_t i)
+{
+    if(i==0){
+        oledWriteCommand(0xA6);//正常显示
     }
-    oledRefresh();//更新显示
+    if(i==1){
+        oledWriteCommand(0xA7);//反显
+    }
 }
 void oledDrawPoint(uint8_t x,uint8_t y){
     uint8_t i,m,n;
@@ -20,7 +33,6 @@ void oledDrawPoint(uint8_t x,uint8_t y){
     m=y%8;
     n=1<<m;
     oledGram[x][i]|=n;
-    oledRefresh();
 }
 void oledClearPoint(uint8_t x,uint8_t y){
     uint8_t i,m,n;
@@ -80,8 +92,8 @@ void oledDrawLine(uint8_t x1,uint8_t y1,uint8_t x2,uint8_t y2){
 void oledDrawRectangle(uint8_t x1,uint8_t y1,uint8_t x2,uint8_t y2){
     oledDrawLine(x1,y1,x1,y2);
     oledDrawLine(x1,y1,x2,y1);
-    oledDrawLine(x2,y2,x2,y1);
-    oledDrawLine(x2,y2,x1,y2);
+    oledDrawLine(x1,y2,x2,y2);
+    oledDrawLine(x2,y1,x2,y2);
 }
 void oledDrawCircle(uint8_t x,uint8_t y,uint8_t r){
     int a, b,num;

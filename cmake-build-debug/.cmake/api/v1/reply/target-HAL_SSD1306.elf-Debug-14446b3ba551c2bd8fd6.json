@@ -154,23 +154,23 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/symct/Desktop/program/hal_ssd1306/Core/Inc"
+					"path" : "C:/Users/symct/Desktop/program/HAL_SSD1306/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Inc"
+					"path" : "C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+					"path" : "C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/CMSIS/Include"
+					"path" : "C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "C",
@@ -277,23 +277,23 @@
 			[
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/symct/Desktop/program/hal_ssd1306/Core/Inc"
+					"path" : "C:/Users/symct/Desktop/program/HAL_SSD1306/Core/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Inc"
+					"path" : "C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
+					"path" : "C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
+					"path" : "C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/CMSIS/Device/ST/STM32F1xx/Include"
 				},
 				{
 					"backtrace" : 10,
-					"path" : "C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/CMSIS/Include"
+					"path" : "C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "ASM",
@@ -318,7 +318,7 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=C:/Users/symct/Desktop/program/hal_ssd1306/cmake-build-debug/HAL_SSD1306.map",
+				"fragment" : "-Wl,-gc-sections,--print-memory-usage,-Map=C:/Users/symct/Desktop/program/HAL_SSD1306/cmake-build-debug/HAL_SSD1306.map",
 				"role" : "flags"
 			},
 			{
@@ -343,7 +343,7 @@
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:/Users/symct/Desktop/program/hal_ssd1306/STM32F103RCTX_FLASH.ld",
+				"fragment" : "C:/Users/symct/Desktop/program/HAL_SSD1306/STM32F103RCTX_FLASH.ld",
 				"role" : "flags"
 			}
 		],

@@ -163,7 +163,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/symct/Desktop/program/hal_ssd1306/cmake-build-debug"
+			"value" : "c:/Users/symct/Desktop/program/HAL_SSD1306/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -719,7 +719,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/symct/Desktop/program/hal_ssd1306/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/symct/Desktop/program/HAL_SSD1306/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -779,7 +779,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/symct/Desktop/program/hal_ssd1306"
+			"value" : "C:/Users/symct/Desktop/program/HAL_SSD1306"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1259,7 +1259,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/symct/Desktop/program/hal_ssd1306/cmake-build-debug"
+			"value" : "C:/Users/symct/Desktop/program/HAL_SSD1306/cmake-build-debug"
 		},
 		{
 			"name" : "HAL_SSD1306_IS_TOP_LEVEL",
@@ -1283,7 +1283,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/symct/Desktop/program/hal_ssd1306"
+			"value" : "C:/Users/symct/Desktop/program/HAL_SSD1306"
 		},
 		{
 			"name" : "ProcessorCount_cmd_nproc",

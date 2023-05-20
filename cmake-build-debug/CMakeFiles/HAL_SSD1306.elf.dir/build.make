@@ -52,10 +52,10 @@ RM = "D:\App\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\symct\Desktop\program\hal_ssd1306
+CMAKE_SOURCE_DIR = C:\Users\symct\Desktop\program\HAL_SSD1306
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/HAL_SSD1306.elf.dir/depend.make
@@ -69,311 +69,311 @@ include CMakeFiles/HAL_SSD1306.elf.dir/progress.make
 include CMakeFiles/HAL_SSD1306.elf.dir/flags.make
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Core/Src/main.c
+CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Core/Src/main.c
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\main.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\main.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\main.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\main.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\main.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\main.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\main.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\main.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\main.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\main.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\main.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\main.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\main.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Core/Src/stm32f1xx_hal_msp.c
+CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Core/Src/stm32f1xx_hal_msp.c
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_hal_msp.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_hal_msp.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\stm32f1xx_hal_msp.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_hal_msp.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_hal_msp.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\stm32f1xx_hal_msp.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\stm32f1xx_hal_msp.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_hal_msp.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\stm32f1xx_hal_msp.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_hal_msp.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\stm32f1xx_hal_msp.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_hal_msp.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\stm32f1xx_hal_msp.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_hal_msp.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Core/Src/stm32f1xx_it.c
+CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Core/Src/stm32f1xx_it.c
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_it.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_it.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\stm32f1xx_it.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_it.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_it.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\stm32f1xx_it.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\stm32f1xx_it.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_it.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\stm32f1xx_it.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_it.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\stm32f1xx_it.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_it.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\stm32f1xx_it.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\stm32f1xx_it.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/syscalls.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/syscalls.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Core/Src/syscalls.c
+CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/syscalls.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Core/Src/syscalls.c
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/syscalls.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/syscalls.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/syscalls.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\syscalls.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\syscalls.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\syscalls.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/syscalls.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/syscalls.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\syscalls.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\syscalls.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\syscalls.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/syscalls.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/syscalls.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\syscalls.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\syscalls.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\syscalls.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\syscalls.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/syscalls.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/syscalls.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\syscalls.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\syscalls.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\syscalls.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\syscalls.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/sysmem.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/sysmem.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Core/Src/sysmem.c
+CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/sysmem.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Core/Src/sysmem.c
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/sysmem.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/sysmem.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/sysmem.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\sysmem.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\sysmem.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\sysmem.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/sysmem.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/sysmem.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\sysmem.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\sysmem.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\sysmem.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/sysmem.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/sysmem.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\sysmem.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\sysmem.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\sysmem.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\sysmem.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/sysmem.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/sysmem.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\sysmem.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\sysmem.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\sysmem.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\sysmem.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Core/Src/system_stm32f1xx.c
+CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Core/Src/system_stm32f1xx.c
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\system_stm32f1xx.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\system_stm32f1xx.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\system_stm32f1xx.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\system_stm32f1xx.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\system_stm32f1xx.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\system_stm32f1xx.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\system_stm32f1xx.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\system_stm32f1xx.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\system_stm32f1xx.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\system_stm32f1xx.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Core\Src\system_stm32f1xx.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\system_stm32f1xx.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Src\system_stm32f1xx.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Src\system_stm32f1xx.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Core/Startup/startup_stm32f103rctx.s
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building ASM object CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Startup\startup_stm32f103rctx.s.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Core\Startup\startup_stm32f103rctx.s
+CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Core/Startup/startup_stm32f103rctx.s
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building ASM object CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Startup\startup_stm32f103rctx.s.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Startup\startup_stm32f103rctx.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing ASM source to CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Core\Startup\startup_stm32f103rctx.s > CMakeFiles\HAL_SSD1306.elf.dir\Core\Startup\startup_stm32f103rctx.s.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Startup\startup_stm32f103rctx.s > CMakeFiles\HAL_SSD1306.elf.dir\Core\Startup\startup_stm32f103rctx.s.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling ASM source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Core\Startup\startup_stm32f103rctx.s -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Startup\startup_stm32f103rctx.s.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Core\Startup\startup_stm32f103rctx.s -o CMakeFiles\HAL_SSD1306.elf.dir\Core\Startup\startup_stm32f103rctx.s.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Core/oled/oled.c
+CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Core/oled/oled.c
 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Core\oled\oled.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Core\oled\oled.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Core\oled\oled.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Core\oled\oled.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Core\oled\oled.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Core\oled\oled.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Core/oled/oled_init.c
+CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Core/oled/oled_init.c
 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled_init.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled_init.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Core\oled\oled_init.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled_init.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled_init.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Core\oled\oled_init.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Core\oled\oled_init.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled_init.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Core\oled\oled_init.c > CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled_init.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Core\oled\oled_init.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled_init.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Core\oled\oled_init.c -o CMakeFiles\HAL_SSD1306.elf.dir\Core\oled\oled_init.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c
+CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c
+CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c
+CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c
+CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c
+CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c
+CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c
+CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c
+CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c
+CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c
+CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c
+CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c
+CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.s
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/flags.make
-CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: C:/Users/symct/Desktop/program/hal_ssd1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c
+CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: C:/Users/symct/Desktop/program/HAL_SSD1306/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: CMakeFiles/HAL_SSD1306.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj -c C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj -MF CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj.d -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj -c C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.i"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.i
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c > CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.i
 
 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.s"
-	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\hal_ssd1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.s
+	D:\App\ARMGCC~1\102021~1.10\bin\AR19DD~1.EXE $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\symct\Desktop\program\HAL_SSD1306\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c -o CMakeFiles\HAL_SSD1306.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.s
 
 # Object files for target HAL_SSD1306.elf
 HAL_SSD1306_elf_OBJECTS = \
@@ -427,12 +427,12 @@ HAL_SSD1306.elf: CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src
 HAL_SSD1306.elf: CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
 HAL_SSD1306.elf: CMakeFiles/HAL_SSD1306.elf.dir/build.make
 HAL_SSD1306.elf: CMakeFiles/HAL_SSD1306.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking C executable HAL_SSD1306.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Linking C executable HAL_SSD1306.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\HAL_SSD1306.elf.dir\link.txt --verbose=$(VERBOSE)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Building C:/Users/symct/Desktop/program/hal_ssd1306/cmake-build-debug/HAL_SSD1306.hex"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Building C:/Users/symct/Desktop/program/hal_ssd1306/cmake-build-debug/HAL_SSD1306.bin"
-	arm-none-eabi-objcopy -Oihex C:/Users/symct/Desktop/program/hal_ssd1306/cmake-build-debug/HAL_SSD1306.elf C:/Users/symct/Desktop/program/hal_ssd1306/cmake-build-debug/HAL_SSD1306.hex
-	arm-none-eabi-objcopy -Obinary C:/Users/symct/Desktop/program/hal_ssd1306/cmake-build-debug/HAL_SSD1306.elf C:/Users/symct/Desktop/program/hal_ssd1306/cmake-build-debug/HAL_SSD1306.bin
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Building C:/Users/symct/Desktop/program/HAL_SSD1306/cmake-build-debug/HAL_SSD1306.hex"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold "Building C:/Users/symct/Desktop/program/HAL_SSD1306/cmake-build-debug/HAL_SSD1306.bin"
+	arm-none-eabi-objcopy -Oihex C:/Users/symct/Desktop/program/HAL_SSD1306/cmake-build-debug/HAL_SSD1306.elf C:/Users/symct/Desktop/program/HAL_SSD1306/cmake-build-debug/HAL_SSD1306.hex
+	arm-none-eabi-objcopy -Obinary C:/Users/symct/Desktop/program/HAL_SSD1306/cmake-build-debug/HAL_SSD1306.elf C:/Users/symct/Desktop/program/HAL_SSD1306/cmake-build-debug/HAL_SSD1306.bin
 
 # Rule to build all files generated by this target.
 CMakeFiles/HAL_SSD1306.elf.dir/build: HAL_SSD1306.elf
@@ -443,6 +443,6 @@ CMakeFiles/HAL_SSD1306.elf.dir/clean:
 .PHONY : CMakeFiles/HAL_SSD1306.elf.dir/clean
 
 CMakeFiles/HAL_SSD1306.elf.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\symct\Desktop\program\hal_ssd1306 C:\Users\symct\Desktop\program\hal_ssd1306 C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles\HAL_SSD1306.elf.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\symct\Desktop\program\HAL_SSD1306 C:\Users\symct\Desktop\program\HAL_SSD1306 C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles\HAL_SSD1306.elf.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/HAL_SSD1306.elf.dir/depend
 

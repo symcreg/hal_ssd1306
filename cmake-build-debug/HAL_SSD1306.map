@@ -111,78 +111,20 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
  .data          0x00000000        0x0 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
  .bss           0x00000000        0x0 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .text.oledClear
-                0x00000000       0x30 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .text.oledDrawPoint
-                0x00000000       0x2c CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .text.oledClearPoint
-                0x00000000       0x34 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .text.oledDrawLine
-                0x00000000       0x9c CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .text.oledDrawRectangle
-                0x00000000       0x36 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .text.oledDrawCircle
-                0x00000000       0xc8 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .text.oledDrawChar
-                0x00000000       0xfc CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .text.oledDrawString
-                0x00000000       0x36 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+ .text.oledDisplayOn
+                0x00000000       0x16 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+ .text.oledDisplayOff
+                0x00000000       0x16 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
  .text.oledPow  0x00000000       0x16 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
  .text.oledDrawNum
                 0x00000000       0x8c CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .rodata.asc2_0806
-                0x00000000      0x228 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .rodata.asc2_1206
-                0x00000000      0x474 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .rodata.asc2_1608
-                0x00000000      0x5f0 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .rodata.asc2_2412
-                0x00000000      0xd5c CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .debug_info    0x00000000      0x98a CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .debug_abbrev  0x00000000      0x18c CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .debug_loc     0x00000000      0xad0 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .debug_aranges
-                0x00000000       0x68 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .debug_ranges  0x00000000       0x70 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .debug_line    0x00000000      0x607 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .debug_str     0x00000000      0x316 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .comment       0x00000000       0x4a CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .debug_frame   0x00000000      0x148 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
- .ARM.attributes
-                0x00000000       0x2d CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
  .text          0x00000000        0x0 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
  .data          0x00000000        0x0 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
  .bss           0x00000000        0x0 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .text.oledStart
-                0x00000000       0x54 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .text.oledStop
-                0x00000000       0x40 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .text.oledWaitTick
-                0x00000000       0x30 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .text.oledWrite
-                0x00000000       0x54 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
  .text.oledWriteData
                 0x00000000       0x2c CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .text.oledWriteCommand
-                0x00000000       0x2c CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .text.oledRefresh
-                0x00000000       0x44 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .text.oledDisplayOn
-                0x00000000       0x16 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .text.oledDisplayOff
-                0x00000000       0x16 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .debug_info    0x00000000      0x6b6 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .debug_abbrev  0x00000000      0x186 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .debug_loc     0x00000000      0x109 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .debug_aranges
-                0x00000000       0x60 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .debug_ranges  0x00000000       0x68 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .debug_line    0x00000000      0x3aa CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .debug_str     0x00000000      0x2e3 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .comment       0x00000000       0x4a CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .debug_frame   0x00000000       0xf0 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
- .ARM.attributes
-                0x00000000       0x2d CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+ .text.oledClear
+                0x00000000       0x30 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
  .text          0x00000000        0x0 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .data          0x00000000        0x0 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .bss           0x00000000        0x0 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
@@ -198,8 +140,6 @@ Discarded input sections
                 0x00000000       0x2c CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .text.HAL_GetTickFreq
                 0x00000000        0xc CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .text.HAL_Delay
-                0x00000000       0x28 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .text.HAL_SuspendTick
                 0x00000000        0xe CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .text.HAL_ResumeTick
@@ -718,7 +658,7 @@ LOAD d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/
                 0x08000000                g_pfnVectors
                 0x080001e4                . = ALIGN (0x4)
 
-.text           0x080001e4      0xd58
+.text           0x080001e4     0x1384
                 0x080001e4                . = ALIGN (0x4)
  *(.text)
  .text          0x080001e4       0x40 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
@@ -731,255 +671,320 @@ LOAD d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/
  .text.SystemClock_Config
                 0x080002a0       0x64 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
                 0x080002a0                SystemClock_Config
- .text.main     0x08000304       0x10 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
+ .text.main     0x08000304       0x60 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
                 0x08000304                main
  .text.HAL_MspInit
-                0x08000314       0x44 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
-                0x08000314                HAL_MspInit
+                0x08000364       0x44 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+                0x08000364                HAL_MspInit
  .text.NMI_Handler
-                0x08000358        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000358                NMI_Handler
+                0x080003a8        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080003a8                NMI_Handler
  .text.HardFault_Handler
-                0x0800035a        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x0800035a                HardFault_Handler
+                0x080003aa        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080003aa                HardFault_Handler
  .text.MemManage_Handler
-                0x0800035c        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x0800035c                MemManage_Handler
+                0x080003ac        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080003ac                MemManage_Handler
  .text.BusFault_Handler
-                0x0800035e        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x0800035e                BusFault_Handler
+                0x080003ae        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080003ae                BusFault_Handler
  .text.UsageFault_Handler
-                0x08000360        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000360                UsageFault_Handler
+                0x080003b0        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080003b0                UsageFault_Handler
  .text.SVC_Handler
-                0x08000362        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000362                SVC_Handler
+                0x080003b2        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080003b2                SVC_Handler
  .text.DebugMon_Handler
-                0x08000364        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000364                DebugMon_Handler
+                0x080003b4        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080003b4                DebugMon_Handler
  .text.PendSV_Handler
-                0x08000366        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000366                PendSV_Handler
+                0x080003b6        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080003b6                PendSV_Handler
  .text.SysTick_Handler
-                0x08000368        0x8 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
-                0x08000368                SysTick_Handler
+                0x080003b8        0x8 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
+                0x080003b8                SysTick_Handler
  .text.SystemInit
-                0x08000370        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
-                0x08000370                SystemInit
- *fill*         0x08000372        0x2 
+                0x080003c0        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x080003c0                SystemInit
+ *fill*         0x080003c2        0x2 
  .text.Reset_Handler
-                0x08000374       0x48 CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
-                0x08000374                Reset_Handler
+                0x080003c4       0x48 CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
+                0x080003c4                Reset_Handler
  .text.Default_Handler
-                0x080003bc        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
-                0x080003bc                RTC_Alarm_IRQHandler
-                0x080003bc                EXTI2_IRQHandler
-                0x080003bc                TIM8_TRG_COM_IRQHandler
-                0x080003bc                TIM8_CC_IRQHandler
-                0x080003bc                TIM1_CC_IRQHandler
-                0x080003bc                TIM6_IRQHandler
-                0x080003bc                PVD_IRQHandler
-                0x080003bc                SDIO_IRQHandler
-                0x080003bc                EXTI3_IRQHandler
-                0x080003bc                EXTI0_IRQHandler
-                0x080003bc                I2C2_EV_IRQHandler
-                0x080003bc                ADC1_2_IRQHandler
-                0x080003bc                SPI1_IRQHandler
-                0x080003bc                TAMPER_IRQHandler
-                0x080003bc                TIM8_UP_IRQHandler
-                0x080003bc                DMA2_Channel2_IRQHandler
-                0x080003bc                DMA1_Channel4_IRQHandler
-                0x080003bc                USART3_IRQHandler
-                0x080003bc                RTC_IRQHandler
-                0x080003bc                DMA1_Channel7_IRQHandler
-                0x080003bc                CAN1_RX1_IRQHandler
-                0x080003bc                UART5_IRQHandler
-                0x080003bc                ADC3_IRQHandler
-                0x080003bc                TIM4_IRQHandler
-                0x080003bc                DMA2_Channel1_IRQHandler
-                0x080003bc                I2C1_EV_IRQHandler
-                0x080003bc                DMA1_Channel6_IRQHandler
-                0x080003bc                UART4_IRQHandler
-                0x080003bc                TIM3_IRQHandler
-                0x080003bc                RCC_IRQHandler
-                0x080003bc                TIM1_TRG_COM_IRQHandler
-                0x080003bc                DMA1_Channel1_IRQHandler
-                0x080003bc                Default_Handler
-                0x080003bc                EXTI15_10_IRQHandler
-                0x080003bc                TIM7_IRQHandler
-                0x080003bc                TIM5_IRQHandler
-                0x080003bc                EXTI9_5_IRQHandler
-                0x080003bc                SPI2_IRQHandler
-                0x080003bc                DMA1_Channel5_IRQHandler
-                0x080003bc                EXTI4_IRQHandler
-                0x080003bc                USB_LP_CAN1_RX0_IRQHandler
-                0x080003bc                USB_HP_CAN1_TX_IRQHandler
-                0x080003bc                DMA1_Channel3_IRQHandler
-                0x080003bc                FSMC_IRQHandler
-                0x080003bc                TIM1_UP_IRQHandler
-                0x080003bc                WWDG_IRQHandler
-                0x080003bc                TIM2_IRQHandler
-                0x080003bc                TIM1_BRK_IRQHandler
-                0x080003bc                EXTI1_IRQHandler
-                0x080003bc                DMA2_Channel4_5_IRQHandler
-                0x080003bc                USART2_IRQHandler
-                0x080003bc                I2C2_ER_IRQHandler
-                0x080003bc                DMA1_Channel2_IRQHandler
-                0x080003bc                TIM8_BRK_IRQHandler
-                0x080003bc                CAN1_SCE_IRQHandler
-                0x080003bc                FLASH_IRQHandler
-                0x080003bc                USART1_IRQHandler
-                0x080003bc                SPI3_IRQHandler
-                0x080003bc                I2C1_ER_IRQHandler
-                0x080003bc                USBWakeUp_IRQHandler
-                0x080003bc                DMA2_Channel3_IRQHandler
- *fill*         0x080003be        0x2 
+                0x0800040c        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
+                0x0800040c                RTC_Alarm_IRQHandler
+                0x0800040c                EXTI2_IRQHandler
+                0x0800040c                TIM8_TRG_COM_IRQHandler
+                0x0800040c                TIM8_CC_IRQHandler
+                0x0800040c                TIM1_CC_IRQHandler
+                0x0800040c                TIM6_IRQHandler
+                0x0800040c                PVD_IRQHandler
+                0x0800040c                SDIO_IRQHandler
+                0x0800040c                EXTI3_IRQHandler
+                0x0800040c                EXTI0_IRQHandler
+                0x0800040c                I2C2_EV_IRQHandler
+                0x0800040c                ADC1_2_IRQHandler
+                0x0800040c                SPI1_IRQHandler
+                0x0800040c                TAMPER_IRQHandler
+                0x0800040c                TIM8_UP_IRQHandler
+                0x0800040c                DMA2_Channel2_IRQHandler
+                0x0800040c                DMA1_Channel4_IRQHandler
+                0x0800040c                USART3_IRQHandler
+                0x0800040c                RTC_IRQHandler
+                0x0800040c                DMA1_Channel7_IRQHandler
+                0x0800040c                CAN1_RX1_IRQHandler
+                0x0800040c                UART5_IRQHandler
+                0x0800040c                ADC3_IRQHandler
+                0x0800040c                TIM4_IRQHandler
+                0x0800040c                DMA2_Channel1_IRQHandler
+                0x0800040c                I2C1_EV_IRQHandler
+                0x0800040c                DMA1_Channel6_IRQHandler
+                0x0800040c                UART4_IRQHandler
+                0x0800040c                TIM3_IRQHandler
+                0x0800040c                RCC_IRQHandler
+                0x0800040c                TIM1_TRG_COM_IRQHandler
+                0x0800040c                DMA1_Channel1_IRQHandler
+                0x0800040c                Default_Handler
+                0x0800040c                EXTI15_10_IRQHandler
+                0x0800040c                TIM7_IRQHandler
+                0x0800040c                TIM5_IRQHandler
+                0x0800040c                EXTI9_5_IRQHandler
+                0x0800040c                SPI2_IRQHandler
+                0x0800040c                DMA1_Channel5_IRQHandler
+                0x0800040c                EXTI4_IRQHandler
+                0x0800040c                USB_LP_CAN1_RX0_IRQHandler
+                0x0800040c                USB_HP_CAN1_TX_IRQHandler
+                0x0800040c                DMA1_Channel3_IRQHandler
+                0x0800040c                FSMC_IRQHandler
+                0x0800040c                TIM1_UP_IRQHandler
+                0x0800040c                WWDG_IRQHandler
+                0x0800040c                TIM2_IRQHandler
+                0x0800040c                TIM1_BRK_IRQHandler
+                0x0800040c                EXTI1_IRQHandler
+                0x0800040c                DMA2_Channel4_5_IRQHandler
+                0x0800040c                USART2_IRQHandler
+                0x0800040c                I2C2_ER_IRQHandler
+                0x0800040c                DMA1_Channel2_IRQHandler
+                0x0800040c                TIM8_BRK_IRQHandler
+                0x0800040c                CAN1_SCE_IRQHandler
+                0x0800040c                FLASH_IRQHandler
+                0x0800040c                USART1_IRQHandler
+                0x0800040c                SPI3_IRQHandler
+                0x0800040c                I2C1_ER_IRQHandler
+                0x0800040c                USBWakeUp_IRQHandler
+                0x0800040c                DMA2_Channel3_IRQHandler
+ .text.oledColorTurn
+                0x0800040e       0x1c CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+                0x0800040e                oledColorTurn
+ *fill*         0x0800042a        0x2 
+ .text.oledDrawPoint
+                0x0800042c       0x24 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+                0x0800042c                oledDrawPoint
+ .text.oledClearPoint
+                0x08000450       0x34 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+                0x08000450                oledClearPoint
+ .text.oledDrawLine
+                0x08000484       0x9c CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+                0x08000484                oledDrawLine
+ .text.oledDrawRectangle
+                0x08000520       0x36 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+                0x08000520                oledDrawRectangle
+ .text.oledDrawCircle
+                0x08000556       0xc8 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+                0x08000556                oledDrawCircle
+ *fill*         0x0800061e        0x2 
+ .text.oledDrawChar
+                0x08000620       0xfc CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+                0x08000620                oledDrawChar
+ .text.oledDrawString
+                0x0800071c       0x36 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+                0x0800071c                oledDrawString
+ *fill*         0x08000752        0x2 
+ .text.oledStart
+                0x08000754       0x54 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+                0x08000754                oledStart
+ .text.oledStop
+                0x080007a8       0x40 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+                0x080007a8                oledStop
+ .text.oledWaitTick
+                0x080007e8       0x40 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+                0x080007e8                oledWaitTick
+ .text.oledWrite
+                0x08000828       0x54 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+                0x08000828                oledWrite
+ .text.oledWriteCommand
+                0x0800087c       0x2c CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+                0x0800087c                oledWriteCommand
+ .text.oledRefresh
+                0x080008a8       0x64 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+                0x080008a8                oledRefresh
+ .text.oledInit
+                0x0800090c       0xb8 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+                0x0800090c                oledInit
  .text.HAL_InitTick
-                0x080003c0       0x4c CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x080003c0                HAL_InitTick
+                0x080009c4       0x4c CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x080009c4                HAL_InitTick
  .text.HAL_Init
-                0x0800040c       0x24 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x0800040c                HAL_Init
+                0x08000a10       0x24 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000a10                HAL_Init
  .text.HAL_IncTick
-                0x08000430       0x18 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08000430                HAL_IncTick
+                0x08000a34       0x18 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000a34                HAL_IncTick
  .text.HAL_GetTick
-                0x08000448        0xc CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x08000448                HAL_GetTick
+                0x08000a4c        0xc CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000a4c                HAL_GetTick
+ .text.HAL_Delay
+                0x08000a58       0x28 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x08000a58                HAL_Delay
  .text.HAL_NVIC_SetPriorityGrouping
-                0x08000454       0x24 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x08000454                HAL_NVIC_SetPriorityGrouping
+                0x08000a80       0x24 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000a80                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x08000478       0x70 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x08000478                HAL_NVIC_SetPriority
+                0x08000aa4       0x70 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000aa4                HAL_NVIC_SetPriority
  .text.HAL_SYSTICK_Config
-                0x080004e8       0x28 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x080004e8                HAL_SYSTICK_Config
+                0x08000b14       0x28 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x08000b14                HAL_SYSTICK_Config
  .text.HAL_GPIO_Init
-                0x08000510      0x240 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x08000510                HAL_GPIO_Init
+                0x08000b3c      0x240 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000b3c                HAL_GPIO_Init
  .text.HAL_GPIO_WritePin
-                0x08000750        0xc CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x08000750                HAL_GPIO_WritePin
+                0x08000d7c        0xc CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x08000d7c                HAL_GPIO_WritePin
  .text.RCC_Delay
-                0x0800075c       0x2c CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08000d88       0x2c CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .text.HAL_RCC_OscConfig
-                0x08000788      0x410 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08000788                HAL_RCC_OscConfig
+                0x08000db4      0x410 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08000db4                HAL_RCC_OscConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x08000b98       0x54 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08000b98                HAL_RCC_GetSysClockFreq
+                0x080011c4       0x54 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x080011c4                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_ClockConfig
-                0x08000bec      0x16c CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x08000bec                HAL_RCC_ClockConfig
+                0x08001218      0x16c CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08001218                HAL_RCC_ClockConfig
  .text.__libc_init_array
-                0x08000d58       0x48 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
-                0x08000d58                __libc_init_array
- .text.memset   0x08000da0       0xa4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
-                0x08000da0                memset
+                0x08001384       0x48 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                0x08001384                __libc_init_array
+ .text.memset   0x080013cc       0xa4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                0x080013cc                memset
  .text.startup.register_fini
-                0x08000e44       0x14 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
- .text.atexit   0x08000e58        0xc d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
-                0x08000e58                atexit
+                0x08001470       0x14 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08001484        0xc d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                0x08001484                atexit
  .text.__libc_fini_array
-                0x08000e64       0x2c d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
-                0x08000e64                __libc_fini_array
+                0x08001490       0x2c d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                0x08001490                __libc_fini_array
  .text.__retarget_lock_acquire_recursive
-                0x08000e90        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
-                0x08000e90                __retarget_lock_acquire_recursive
+                0x080014bc        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x080014bc                __retarget_lock_acquire_recursive
  .text.__retarget_lock_release_recursive
-                0x08000e94        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
-                0x08000e94                __retarget_lock_release_recursive
+                0x080014c0        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x080014c0                __retarget_lock_release_recursive
  .text.__register_exitproc
-                0x08000e98       0x8c d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
-                0x08000e98                __register_exitproc
+                0x080014c4       0x8c d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                0x080014c4                __register_exitproc
  *(.glue_7)
- .glue_7        0x08000f24        0x0 linker stubs
+ .glue_7        0x08001550        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x08000f24        0x0 linker stubs
+ .glue_7t       0x08001550        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x08000f24        0x0 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+ .eh_frame      0x08001550        0x0 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
  *(.init)
- .init          0x08000f24        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
-                0x08000f24                _init
- .init          0x08000f28        0x8 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+ .init          0x08001550        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x08001550                _init
+ .init          0x08001554        0x8 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
  *(.fini)
- .fini          0x08000f30        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
-                0x08000f30                _fini
- .fini          0x08000f34        0x8 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
-                0x08000f3c                . = ALIGN (0x4)
-                0x08000f3c                _etext = .
+ .fini          0x0800155c        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+                0x0800155c                _fini
+ .fini          0x08001560        0x8 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x08001568                . = ALIGN (0x4)
+                0x08001568                _etext = .
 
-.vfp11_veneer   0x08000f3c        0x0
- .vfp11_veneer  0x08000f3c        0x0 linker stubs
+.vfp11_veneer   0x08001568        0x0
+ .vfp11_veneer  0x08001568        0x0 linker stubs
 
-.v4_bx          0x08000f3c        0x0
- .v4_bx         0x08000f3c        0x0 linker stubs
+.v4_bx          0x08001568        0x0
+ .v4_bx         0x08001568        0x0 linker stubs
 
-.iplt           0x08000f3c        0x0
- .iplt          0x08000f3c        0x0 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+.iplt           0x08001568        0x0
+ .iplt          0x08001568        0x0 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
 
-.rodata         0x08000f3c       0x28
-                0x08000f3c                . = ALIGN (0x4)
+.rodata         0x08001568     0x1a1c
+                0x08001568                . = ALIGN (0x4)
  *(.rodata)
  *(.rodata*)
+ .rodata.main.str1.4
+                0x08001568        0xb CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
+ *fill*         0x08001573        0x1 
  .rodata.AHBPrescTable
-                0x08000f3c       0x10 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
-                0x08000f3c                AHBPrescTable
+                0x08001574       0x10 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
+                0x08001574                AHBPrescTable
+ .rodata.asc2_0806
+                0x08001584      0x228 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+                0x08001584                asc2_0806
+ .rodata.asc2_1206
+                0x080017ac      0x474 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+                0x080017ac                asc2_1206
+ .rodata.asc2_1608
+                0x08001c20      0x5f0 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+                0x08001c20                asc2_1608
+ .rodata.asc2_2412
+                0x08002210      0xd5c CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+                0x08002210                asc2_2412
  .rodata.aPLLMULFactorTable.1
-                0x08000f4c       0x10 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x08002f6c       0x10 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .rodata.aPredivFactorTable.0
-                0x08000f5c        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- *fill*         0x08000f5e        0x2 
+                0x08002f7c        0x2 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *fill*         0x08002f7e        0x2 
  .rodata._global_impure_ptr
-                0x08000f60        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
-                0x08000f60                _global_impure_ptr
-                0x08000f64                . = ALIGN (0x4)
+                0x08002f80        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x08002f80                _global_impure_ptr
+                0x08002f84                . = ALIGN (0x4)
 
-.rel.dyn        0x08000f64        0x0
- .rel.iplt      0x08000f64        0x0 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+.rel.dyn        0x08002f84        0x0
+ .rel.iplt      0x08002f84        0x0 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
 
-.ARM.extab      0x08000f64        0x0
-                0x08000f64                . = ALIGN (0x4)
+.ARM.extab      0x08002f84        0x0
+                0x08002f84                . = ALIGN (0x4)
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x08000f64                . = ALIGN (0x4)
+                0x08002f84                . = ALIGN (0x4)
 
-.ARM            0x08000f64        0x0
-                0x08000f64                . = ALIGN (0x4)
-                0x08000f64                __exidx_start = .
+.ARM            0x08002f84        0x0
+                0x08002f84                . = ALIGN (0x4)
+                0x08002f84                __exidx_start = .
  *(.ARM.exidx*)
-                0x08000f64                __exidx_end = .
-                0x08000f64                . = ALIGN (0x4)
+                0x08002f84                __exidx_end = .
+                0x08002f84                . = ALIGN (0x4)
 
-.preinit_array  0x08000f64        0x0
-                0x08000f64                . = ALIGN (0x4)
-                0x08000f64                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x08002f84        0x0
+                0x08002f84                . = ALIGN (0x4)
+                0x08002f84                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x08000f64                PROVIDE (__preinit_array_end = .)
-                0x08000f64                . = ALIGN (0x4)
+                0x08002f84                PROVIDE (__preinit_array_end = .)
+                0x08002f84                . = ALIGN (0x4)
 
-.init_array     0x08000f64        0x8
-                0x08000f64                . = ALIGN (0x4)
-                0x08000f64                PROVIDE (__init_array_start = .)
+.init_array     0x08002f84        0x8
+                0x08002f84                . = ALIGN (0x4)
+                0x08002f84                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  .init_array.00000
-                0x08000f64        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x08002f84        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
  *(.init_array*)
- .init_array    0x08000f68        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
-                0x08000f6c                PROVIDE (__init_array_end = .)
-                0x08000f6c                . = ALIGN (0x4)
+ .init_array    0x08002f88        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x08002f8c                PROVIDE (__init_array_end = .)
+                0x08002f8c                . = ALIGN (0x4)
 
-.fini_array     0x08000f6c        0x4
-                0x08000f6c                . = ALIGN (0x4)
-                0x08000f6c                PROVIDE (__fini_array_start = .)
+.fini_array     0x08002f8c        0x4
+                0x08002f8c                . = ALIGN (0x4)
+                0x08002f8c                PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x08000f6c        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
-                0x08000f70                PROVIDE (__fini_array_end = .)
-                0x08000f70                . = ALIGN (0x4)
-                0x08000f70                _sidata = LOADADDR (.data)
+ .fini_array    0x08002f8c        0x4 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+                0x08002f90                PROVIDE (__fini_array_end = .)
+                0x08002f90                . = ALIGN (0x4)
+                0x08002f90                _sidata = LOADADDR (.data)
 
-.data           0x20000000      0x43c load address 0x08000f70
+.data           0x20000000      0x43c load address 0x08002f90
                 0x20000000                . = ALIGN (0x4)
                 0x20000000                _sdata = .
  *(.data)
@@ -1005,37 +1010,39 @@ LOAD d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/
                 0x2000043c                . = ALIGN (0x4)
                 0x2000043c                _edata = .
 
-.igot.plt       0x2000043c        0x0 load address 0x080013ac
+.igot.plt       0x2000043c        0x0 load address 0x080033cc
  .igot.plt      0x2000043c        0x0 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
                 0x2000043c                . = ALIGN (0x4)
 
-.bss            0x2000043c       0x24 load address 0x080013ac
+.bss            0x2000043c      0x424 load address 0x080033cc
                 0x2000043c                _sbss = .
                 0x2000043c                __bss_start__ = _sbss
  *(.bss)
  .bss           0x2000043c       0x1c d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
  *(.bss*)
- .bss.uwTick    0x20000458        0x4 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x20000458                uwTick
+ .bss.oledGram  0x20000458      0x400 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+                0x20000458                oledGram
+ .bss.uwTick    0x20000858        0x4 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x20000858                uwTick
  .bss.__lock___atexit_recursive_mutex
-                0x2000045c        0x1 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
-                0x2000045c                __lock___atexit_recursive_mutex
+                0x2000085c        0x1 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x2000085c                __lock___atexit_recursive_mutex
  *(COMMON)
-                0x20000460                . = ALIGN (0x4)
- *fill*         0x2000045d        0x3 
-                0x20000460                _ebss = .
-                0x20000460                __bss_end__ = _ebss
+                0x20000860                . = ALIGN (0x4)
+ *fill*         0x2000085d        0x3 
+                0x20000860                _ebss = .
+                0x20000860                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x20000460      0x600 load address 0x080013ac
-                0x20000460                . = ALIGN (0x8)
+                0x20000860      0x600 load address 0x080033cc
+                0x20000860                . = ALIGN (0x8)
                 [!provide]                PROVIDE (end = .)
-                0x20000460                PROVIDE (_end = .)
-                0x20000660                . = (. + _Min_Heap_Size)
- *fill*         0x20000460      0x200 
-                0x20000a60                . = (. + _Min_Stack_Size)
- *fill*         0x20000660      0x400 
-                0x20000a60                . = ALIGN (0x8)
+                0x20000860                PROVIDE (_end = .)
+                0x20000a60                . = (. + _Min_Heap_Size)
+ *fill*         0x20000860      0x200 
+                0x20000e60                . = (. + _Min_Stack_Size)
+ *fill*         0x20000a60      0x400 
+                0x20000e60                . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -1060,60 +1067,68 @@ LOAD d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/
  .ARM.attributes
                 0x000000fe       0x21 CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
  .ARM.attributes
-                0x0000011f       0x2d CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000011f       0x2d CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
  .ARM.attributes
-                0x0000014c       0x2d CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000014c       0x2d CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
  .ARM.attributes
-                0x00000179       0x2d CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x00000179       0x2d CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .ARM.attributes
-                0x000001a6       0x2d CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x000001a6       0x2d CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .ARM.attributes
-                0x000001d3       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
+                0x000001d3       0x2d CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .ARM.attributes
-                0x00000200       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+                0x00000200       0x2d CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  .ARM.attributes
-                0x0000022d       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+                0x0000022d       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-impure.o)
  .ARM.attributes
-                0x0000025a       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+                0x0000025a       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
  .ARM.attributes
-                0x00000287       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+                0x00000287       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
  .ARM.attributes
-                0x000002b4       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+                0x000002b4       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
  .ARM.attributes
-                0x000002e1       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+                0x000002e1       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
  .ARM.attributes
-                0x0000030e       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+                0x0000030e       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
  .ARM.attributes
-                0x0000033b       0x1d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
+                0x0000033b       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000368       0x2d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000395       0x1d d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o
 OUTPUT(HAL_SSD1306.elf elf32-littlearm)
 LOAD linker stubs
 LOAD d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libc.a
 LOAD d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libm.a
 LOAD d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp\libgcc.a
 
-.debug_info     0x00000000     0x31b5
- .debug_info    0x00000000      0x562 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
- .debug_info    0x00000562      0x211 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_info    0x00000773      0x130 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_info    0x000008a3      0x248 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_info    0x00000aeb       0x22 CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
- .debug_info    0x00000b0d      0x80e CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_info    0x0000131b      0xdf0 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_info    0x0000210b      0x66f CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_info    0x0000277a      0xa3b CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+.debug_info     0x00000000     0x4655
+ .debug_info    0x00000000      0x6a2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x000006a2      0x211 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x000008b3      0x130 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x000009e3      0x248 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x00000c2b       0x22 CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
+ .debug_info    0x00000c4d      0xa12 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+ .debug_info    0x0000165f      0x94e CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+ .debug_info    0x00001fad      0x80e CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x000027bb      0xdf0 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x000035ab      0x66f CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x00003c1a      0xa3b CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
 
-.debug_abbrev   0x00000000      0xe12
+.debug_abbrev   0x00000000     0x1110
  .debug_abbrev  0x00000000      0x1ca CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
  .debug_abbrev  0x000001ca       0xe5 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .debug_abbrev  0x000002af       0x7e CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
  .debug_abbrev  0x0000032d      0x13e CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
  .debug_abbrev  0x0000046b       0x12 CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
- .debug_abbrev  0x0000047d      0x1f4 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_abbrev  0x00000671      0x341 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_abbrev  0x000009b2      0x1e6 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_abbrev  0x00000b98      0x27a CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x0000047d      0x16f CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+ .debug_abbrev  0x000005ec      0x18f CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+ .debug_abbrev  0x0000077b      0x1f4 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x0000096f      0x341 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x00000cb0      0x1e6 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x00000e96      0x27a CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
 
-.debug_aranges  0x00000000      0x360
+.debug_aranges  0x00000000      0x438
  .debug_aranges
                 0x00000000       0x38 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
  .debug_aranges
@@ -1125,54 +1140,66 @@ LOAD d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/
  .debug_aranges
                 0x000000e0       0x28 CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
  .debug_aranges
-                0x00000108       0xe0 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000108       0x78 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
  .debug_aranges
-                0x000001e8       0x90 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x00000180       0x60 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
  .debug_aranges
-                0x00000278       0x58 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x000001e0       0xe0 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .debug_aranges
-                0x000002d0       0x90 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x000002c0       0x90 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_aranges
+                0x00000350       0x58 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_aranges
+                0x000003a8       0x90 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
 
-.debug_ranges   0x00000000      0x358
+.debug_ranges   0x00000000      0x428
  .debug_ranges  0x00000000       0x28 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
  .debug_ranges  0x00000028       0x10 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .debug_ranges  0x00000038       0x50 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
  .debug_ranges  0x00000088       0x18 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
  .debug_ranges  0x000000a0       0x20 CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
- .debug_ranges  0x000000c0       0xd0 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_ranges  0x00000190       0xe0 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_ranges  0x00000270       0x48 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_ranges  0x000002b8       0xa0 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_ranges  0x000000c0       0x68 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+ .debug_ranges  0x00000128       0x68 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+ .debug_ranges  0x00000190       0xd0 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_ranges  0x00000260       0xe0 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_ranges  0x00000340       0x48 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_ranges  0x00000388       0xa0 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
 
-.debug_line     0x00000000     0x2891
- .debug_line    0x00000000      0x3ba CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
- .debug_line    0x000003ba      0x188 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_line    0x00000542      0x1cd CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_line    0x0000070f      0x252 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_line    0x00000961       0xaf CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
- .debug_line    0x00000a10      0x590 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_line    0x00000fa0      0x670 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_line    0x00001610      0x62c CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_line    0x00001c3c      0xc55 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+.debug_line     0x00000000     0x3302
+ .debug_line    0x00000000      0x413 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00000413      0x188 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x0000059b      0x1cd CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x00000768      0x252 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x000009ba       0xaf CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
+ .debug_line    0x00000a69      0x5e4 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+ .debug_line    0x0000104d      0x434 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+ .debug_line    0x00001481      0x590 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x00001a11      0x670 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x00002081      0x62c CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x000026ad      0xc55 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
 
-.debug_str      0x00000000     0x14f8
- .debug_str     0x00000000      0x42a CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
-                                0x47c (size before relaxing)
- .debug_str     0x0000042a       0x82 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+.debug_str      0x00000000     0x1709
+ .debug_str     0x00000000      0x4a2 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
+                                0x4f4 (size before relaxing)
+ .debug_str     0x000004a2       0x82 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
                                 0x26d (size before relaxing)
- .debug_str     0x000004ac       0xdf CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_str     0x00000524       0xdf CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
                                 0x270 (size before relaxing)
- .debug_str     0x0000058b       0xb0 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_str     0x00000603       0xb0 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
                                 0x2a2 (size before relaxing)
- .debug_str     0x0000063b       0x5e CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
+ .debug_str     0x000006b3       0x5e CMakeFiles/HAL_SSD1306.elf.dir/Core/Startup/startup_stm32f103rctx.s.obj
                                  0x9b (size before relaxing)
- .debug_str     0x00000699      0x704 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_str     0x00000711      0x118 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+                                0x33c (size before relaxing)
+ .debug_str     0x00000829       0x90 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+                                0x2d9 (size before relaxing)
+ .debug_str     0x000008b9      0x6fa CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
                                 0x956 (size before relaxing)
- .debug_str     0x00000d9d      0x3ed CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_str     0x00000fb3      0x3ed CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
                                 0xa05 (size before relaxing)
- .debug_str     0x0000118a      0x152 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_str     0x000013a0      0x14d CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
                                 0x44e (size before relaxing)
- .debug_str     0x000012dc      0x21c CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_str     0x000014ed      0x21c CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
                                 0x679 (size before relaxing)
 
 .comment        0x00000000       0x49
@@ -1181,32 +1208,38 @@ LOAD d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/
  .comment       0x00000049       0x4a CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .comment       0x00000049       0x4a CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
  .comment       0x00000049       0x4a CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+ .comment       0x00000049       0x4a CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
  .comment       0x00000049       0x4a CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .comment       0x00000049       0x4a CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .comment       0x00000049       0x4a CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .comment       0x00000049       0x4a CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
 
-.debug_frame    0x00000000      0x8b0
+.debug_frame    0x00000000      0xb10
  .debug_frame   0x00000000       0x78 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/main.c.obj
  .debug_frame   0x00000078       0x28 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .debug_frame   0x000000a0       0xa8 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_it.c.obj
  .debug_frame   0x00000148       0x30 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_frame   0x00000178      0x1cc CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_frame   0x00000344      0x118 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_frame   0x0000045c       0xe4 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_frame   0x00000540      0x184 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_frame   0x000006c4       0x2c d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
- .debug_frame   0x000006f0       0x2c d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
- .debug_frame   0x0000071c       0x5c d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
- .debug_frame   0x00000778       0x20 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
- .debug_frame   0x00000798       0x34 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
- .debug_frame   0x000007cc       0xb0 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
- .debug_frame   0x0000087c       0x34 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
+ .debug_frame   0x00000178      0x170 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+ .debug_frame   0x000002e8       0xf0 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+ .debug_frame   0x000003d8      0x1cc CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x000005a4      0x118 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x000006bc       0xe4 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x000007a0      0x184 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x00000924       0x2c d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-init.o)
+ .debug_frame   0x00000950       0x2c d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-memset.o)
+ .debug_frame   0x0000097c       0x5c d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000009d8       0x20 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-atexit.o)
+ .debug_frame   0x000009f8       0x34 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-fini.o)
+ .debug_frame   0x00000a2c       0xb0 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-lock.o)
+ .debug_frame   0x00000adc       0x34 d:/app/armgcc~1/102021~1.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp\libg.a(lib_a-__atexit.o)
 
-.debug_loc      0x00000000     0x1409
+.debug_loc      0x00000000     0x2024
  .debug_loc     0x00000000       0x15 CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
  .debug_loc     0x00000015       0xff CMakeFiles/HAL_SSD1306.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_loc     0x00000114      0x141 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_loc     0x00000255      0x71f CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_loc     0x00000974      0x47d CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_loc     0x00000df1      0x618 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_loc     0x00000114      0xac0 CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled.c.obj
+ .debug_loc     0x00000bd4      0x15b CMakeFiles/HAL_SSD1306.elf.dir/Core/oled/oled_init.c.obj
+ .debug_loc     0x00000d2f      0x141 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_loc     0x00000e70      0x71f CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_loc     0x0000158f      0x47d CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_loc     0x00001a0c      0x618 CMakeFiles/HAL_SSD1306.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj

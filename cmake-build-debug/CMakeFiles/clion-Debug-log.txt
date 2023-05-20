@@ -16,4 +16,4 @@
 -- Minimal optimization, debug info included
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/symct/Desktop/program/hal_ssd1306/cmake-build-debug
+-- Build files have been written to: C:/Users/symct/Desktop/program/HAL_SSD1306/cmake-build-debug

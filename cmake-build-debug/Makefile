@@ -56,10 +56,10 @@ RM = "D:\App\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\symct\Desktop\program\hal_ssd1306
+CMAKE_SOURCE_DIR = C:\Users\symct\Desktop\program\HAL_SSD1306
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\symct\Desktop\program\hal_ssd1306\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\symct\Desktop\program\HAL_SSD1306\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target

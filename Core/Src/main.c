@@ -21,7 +21,8 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "../oled/oled.h"
+#include "../oled/oled_init.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -86,6 +87,17 @@ int main(void)
   MX_GPIO_Init();
   /* USER CODE BEGIN 2 */
 
+  oledInit();
+  oledColorTurn(1);
+  oledDrawPoint(10,10);
+  oledDrawLine(1,1,10,10);
+  oledDrawRectangle(1,1,10,10);
+  oledDrawCircle(10,10,10);
+  oledDrawString(30,10,"hello oled",16);
+  oledRefresh();
+//    HAL_Delay(1000);
+//  oledRefresh();
+//    HAL_Delay(1000);
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -95,6 +107,7 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
+      HAL_Delay(10);
   }
   /* USER CODE END 3 */
 }

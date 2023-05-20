@@ -20,17 +20,15 @@
 
 #include "stm32f1xx.h"
 
-extern uint8_t oledGram[128][8];
-
+void oledInit();
 void oledStart();
 void oledStop();
 void oledWaitTick();
 void oledWrite(uint8_t data);
 void oledWriteData(uint8_t data);
 void oledWriteCommand(uint8_t command);
+void oledClear();
 void oledRefresh();
-void oledDisplayOn();
-void oledDisplayOff();
 
 
 #endif //HAL_SSD1306_OLED_INIT_H

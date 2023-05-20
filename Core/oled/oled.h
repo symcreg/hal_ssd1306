@@ -6,10 +6,12 @@
 #define HAL_SSD1306_OLED_H
 
 //#include "oled_init.h"
-#include "oled_font.h"
+
 #include "stm32f1xx.h"
 
-void oledClear();
+void oledColorTurn(uint8_t i);
+void oledDisplayOn();
+void oledDisplayOff();
 void oledDrawPoint(uint8_t x,uint8_t y);
 void oledClearPoint(uint8_t x,uint8_t y);
 void oledDrawLine(uint8_t x1,uint8_t y1,uint8_t x2,uint8_t y2);
